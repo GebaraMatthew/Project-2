@@ -1,0 +1,16 @@
+main{
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 0%;
+}
+
+header {
+    width:100%
+    
+}
+
+header ul{
+    flex-direction: row;
+    font-size: 25px;
+    width: 100%;
+}
